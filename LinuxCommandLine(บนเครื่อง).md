@@ -61,6 +61,7 @@
   $cd ~ # home
   $cd .. # ออกมา 1 step
   $cd ../.. # ออกมา 2 step
+  $cd ../../test_lv3 # ออกมา 2 step แล้วมาที่ folfer test_lv3
   ```
 ## 3. การ copy และการย้าย file/folder
 ที่อยู่ของ File/Folder ในตอนสุดท้าย
