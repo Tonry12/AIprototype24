@@ -22,7 +22,7 @@
          ชื่อไฟล์ ชื่อล็อกอิน@IP:
   $scp -r testfolder1/ nattntn@IP:/home/nattntn/. # cp folder in PC to Cloud
   ```
-__ตัวอย่าง ฉัน save file ที่ชื่อ testcode.py ในเครื่อง ในที่อยู่คือ c/Users/Administrator/Documents/Work/AIprototype__
+* ตัวอย่าง ฉัน save file ที่ชื่อ testcode.py ในเครื่อง ในที่อยู่คือ c/Users/Administrator/Documents/Work/AIprototype__
  โดยใช้คำสั่ง 
  ```
 /mnt/c$ cd Users/Administrator/Documents/Work/AIprototype/
