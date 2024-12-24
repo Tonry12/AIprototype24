@@ -18,6 +18,7 @@
 * ส่งไฟล์จากเครื่องเราไปบน Cloud
   ```
   $scp ./xxx nattntn@IP:/xxx/xxx/.
+             ชื่อล็อกอิน@IP:
   $scp -r testfolder1/ nattntn@IP:/home/nattntn/. # cp folder in PC to Cloud
   ```
 * ดึงไฟล์จาก cloud มาเครื่องเรา
