@@ -24,16 +24,20 @@
   ```
 * ตัวอย่าง ฉัน save file ที่ชื่อ testcode.py ในเครื่อง ในที่อยู่คือ c/Users/Administrator/Documents/Work/AIprototype__
  โดยใช้คำสั่ง 
- ```
-/mnt/c$ cd Users/Administrator/Documents/Work/AIprototype/
-จากนั้น จะดึงไฟล์ไปที่ปลายทางเรา คือ /home/tonnaw/code
-scp testcode.py tonnaw@20.2.154.196:/home/tonnaw/code/.
-scp ชื่อไฟล์ที่จะย้าย ชื่อuserเรา@IP:ปลายทาง/.
- ```
-* ดึงไฟล์จาก cloud มาเครื่องเรา
   ```
-  $scp nattntn@IP:/xxx/xxx/yyy.py /home/nattntn
-  $scp nattntn@IP:/home/yoke/print.py /home/nattntn # move file from folder name york  on nattntn Cloud to PC
+  /mnt/c$ cd Users/Administrator/Documents/Work/AIprototype/
+  จากนั้น จะดึงไฟล์ไปที่ปลายทางเรา คือ /home/tonnaw/code
+  scp testcode.py tonnaw@20.2.154.196:/home/tonnaw/code/.
+  scp ชื่อไฟล์ที่จะย้าย ชื่อuserเรา@IP:ปลายทาง/.
+  ```
+* ดึงไฟล์จาก cloud มาเครื่องเรา
+ โดยที่เราต้องเริ่มจากเครื่องเรา เพราะว่าเราจะสามารถใส่ public ip ของ could ได้
+ ถ้าเราอยู่ could แล้วจะย้ายมาเครื่องเรา มันทำไม่ได้ เพราะเครื่องเรามันไม่มี public ip
+ เราเลยมาตั้งต้นที่ เครื่องเรา
+  ```
+  $scp username@IP:/xxx/xxx/yyy.py /home/tonnaw
+  $scp username@IP:โฟลเดอร์ต่างๆ/yyy.py ที่อยู่คอมเรา
+  $scp tonnaw@20.2.154.196:/home/tonnaw/code2/testcode.py /home/tonnaw
   ```
  # 4. Cloud Shell (ใช้ Terminal on Internet)
  > Shell.Azure.com
