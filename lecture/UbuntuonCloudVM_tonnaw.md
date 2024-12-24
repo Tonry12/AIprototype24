@@ -9,6 +9,14 @@
  เช่น ssh tonty@20.21...
      exit
  ```
+ ตัวอย่าง ฉัน save file ที่ชื่อ testcode.py ในเครื่อง ในที่อยู่คือ c/Users/Administrator/Documents/Work/AIprototype
+ โดยใช้คำสั่ง 
+ ```
+/mnt/c$ cd Users/Administrator/Documents/Work/AIprototype/
+จากนั้น จะดึงไฟล์ไปที่ปลายทางเรา คือ /home/tonnaw/code
+scp testcode.py tonnaw@20.2.154.196:/home/tonnaw/code/.
+scp ชื่อไฟล์ที่จะย้าย ชื่อuserเรา@IP:ปลายทาง/.
+ ```
  # 3. Move file/folder in PC to Cloud and vice versa 
  __ตอนย้ายต้องอยู่ในเครื่องเท่านั้น!!__
 * Format
@@ -21,6 +29,7 @@
          ชื่อไฟล์ ชื่อล็อกอิน@IP:
   $scp -r testfolder1/ nattntn@IP:/home/nattntn/. # cp folder in PC to Cloud
   ```
+  
 * ดึงไฟล์จาก cloud มาเครื่องเรา
   ```
   $scp nattntn@IP:/xxx/xxx/yyy.py /home/nattntn
