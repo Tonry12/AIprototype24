@@ -6,6 +6,8 @@
  ```
  $ssh username@IP #login
  $exit #logout //จบ section
+ เช่น ssh tonty@20.21...
+     exit
  ```
  # 3. Move file/folder in PC to Cloud and vice versa 
  __ตอนย้ายต้องอยู่ในเครื่องเท่านั้น!!__
