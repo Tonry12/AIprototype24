@@ -1,0 +1,7 @@
+# อธิบายโค้ด Python `.py` ไฟล์
+
+## **1. Import Module**
+```python
+import argparse
+- โมดูล argparse ใช้สำหรับจัดการ Argument ที่ผู้ใช้ส่งเข้ามาผ่าน Command Line
+- ช่วยให้สามารถตั้งค่า Input แบบ Dynamic เช่น การใส่ชื่อผู้ใช้หรือค่าต่าง ๆ ที่ต้องการในขณะรันโปรแกรม
