@@ -6,16 +6,16 @@ def parse_input():
 
     parser.add_argument(
         '--bd',
-        type=int,
+        type=str,
         required=True,
-        help= 'birthday of the user'     
+        help='birthday of the user in DD-MM-YYYY format'
     )
 
     parser.add_argument(
         '--name',
         type=str,
-        default= 'Tonry',
-        help= 'input name of people who are using the app'     
+        default='Tonry',
+        help='input name of the person who is using the app'
     )
 
     args = parser.parse_args()
@@ -24,12 +24,15 @@ def parse_input():
 def printHello(who):
     print(f"Hello world!, {who}!!")
 
-def cal_todayVbd(bd):
-    td =  datetime.today().strftime('%d')
-    return bd - int(td)
+def cal_days_from_today(birthday_str):
+    birthday = datetime.strptime(birthday_str, '%d-%m-%Y')
+    today = datetime.today()
+    delta = today - birthday
+    return delta.days
 
 if __name__ == "__main__":
     input_v = parse_input()
-    print('this is my frist .py file.')
+    print('this is my first .py file.')
     printHello(input_v.name)
-    print(f'your birthday is {cal_todayVbd(input_v.bd)} from today')
+    days_diff = cal_days_from_today(input_v.bd)
+    print(f'I was born {abs(days_diff)} days {"ago" if days_diff > 0 else "from today"}')
