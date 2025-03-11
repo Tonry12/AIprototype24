@@ -27,36 +27,6 @@
 #### **ตัวอย่างการใช้งาน Web service**
 - การสร้าง API ที่อนุญาตให้ระบบอื่น ๆ เรียกดูข้อมูลหรือส่งข้อมูลเข้าไป เช่น ระบบเชื่อมต่อฐานข้อมูลของแอปพลิเคชันมือถือ
 
-# WebPage
-<br/>
-<div align="center" >
-  <img class="logo"src="https://github.com/nattntn/AIPrototype2023/blob/main/lecture/logo3.svg" style="float: center;" style="transform: scale(0.2);">  
-</div>
-
-<div align="center" >
-  <a href="https://nattntn.github.io/DentAI_webpage/">DentAI</a>  
-  <a href="https://github.com/nattntn/DentAI_webpage">Source Code</a> 
-</div>
-
-## How to activate web page on GitHub
-<img src="https://github.com/nattntn/AIPrototype2023/blob/main/lecture/activate%20web%20page.jpg" width = "600" heigth="600"/>
-
-# WebApplication
-<br/>
-<div align="center" >
-  <img class="logo"src="https://github.com/nattntn/AIPrototype2023/blob/main/lecture/logo3.svg" style="float: center;" style="transform: scale(0.2);">  
-</div>
-
-<div align="center" >
-  <a href="http://20.249.99.43:5001/">DentAI</a>  
-  <a href="https://github.com/NarawitPrathansap/Webapp">Source Code</a>  
-</div>
-
-## Workflow of our system
-<div align="center" >
-   <img class="logo"src="https://github.com/nattntn/AIPrototype2023/blob/main/lecture/workflow%20of%20our%20system.svg" style="float: center;">
-</div>
-
 
 
 
