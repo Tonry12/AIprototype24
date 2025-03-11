@@ -10,7 +10,7 @@ SC664401 | การสร้างต้นแบบระบบปัญญา
 ## 📅 ตารางเรียน
 | ครั้งที่ | วันที่       | หัวข้อบทเรียน           | ลิงก์บันทึกการสอน |
 |:-------:|:----------:|:-------------------:|:-------------------:|
-| I       | 02/12/67  | คำสั่ง Ubuntu CLI   | [`Lecture Class I.md`](https://github.com/Tonry12/AIprototype24/blob/main/LinuxCommandLine(%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87).md) |
+| I       | 02/12/67  | คำสั่ง Ubuntu CLI   | [`คำสั่ง Ubuntu_พื้นฐาน.md`](https://github.com/Tonry12/AIprototype24/blob/main/LinuxCommandLine(%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87).md) |
 | II      | 11/12/67  | เครื่องเสมือน (VM) | [`Lecture Class II.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20II.md) |
 | III     | 24/12/67  | Cloud VM           | [`Lecture Class III.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20III.md) |
 | IV      | 07/01/68  | การสร้างเว็บ        | [`Lecture Class IV.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20IV.md) |
