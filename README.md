@@ -10,13 +10,13 @@ SC664401 | การสร้างต้นแบบระบบปัญญา
 ## 📅 ตารางเรียน
 | ครั้งที่ | วันที่       | หัวข้อบทเรียน           | ลิงก์บันทึกการสอน |
 |:-------:|:----------:|:-------------------:|:-------------------:|
-| I       | 02/12/67  | คำสั่ง Ubuntu CLI   | [`คำสั่ง Ubuntu_พื้นฐาน.md`](https://github.com/Tonry12/AIprototype24/blob/main/LinuxCommandLine(%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87).md) |
-| II      | 11/12/67  | Virtual Machine | [`Virtual Machine.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Virtual%20Machine.md) |
-| III     | 24/12/67  | Ubuntu on Cloud VM | [`Cloud_VM.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/UbuntuonCloudVM_tonnaw.md) |
-| IV      | 07/01/68  | การสร้างเว็บ | [`web.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Web.md) |
-| V       | 21/01/68  | สภาพแวดล้อม Conda | [`Conda.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/%E0%B8%87%E0%B8%B9%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B9%86%E0%B9%86%20conda.md) |
-| VI      | 19/02/68  | Web Service        | [`Lecture Web Service.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Web%20Service.md) |
-| VII     | 11/03/68  | Deep Learning      | [`Deep Learning.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Deep%20Learning.md) |
+| 1       | 02/12/67  | คำสั่ง Ubuntu CLI   | [`คำสั่ง Ubuntu_พื้นฐาน.md`](https://github.com/Tonry12/AIprototype24/blob/main/LinuxCommandLine(%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87).md) |
+| 2      | 11/12/67  | Virtual Machine | [`Virtual Machine.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Virtual%20Machine.md) |
+| 3     | 24/12/67  | Ubuntu on Cloud VM | [`Cloud_VM.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/UbuntuonCloudVM_tonnaw.md) |
+| 4      | 07/01/68  | การสร้างเว็บ | [`web.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Web.md) |
+| 5       | 21/01/68  | สภาพแวดล้อม Conda | [`Conda.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/%E0%B8%87%E0%B8%B9%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B9%86%E0%B9%86%20conda.md) |
+| 6      | 19/02/68  | Web Service        | [`Lecture Web Service.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Web%20Service.md) |
+| 7     | 11/03/68  | Deep Learning      | [`Deep Learning.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Deep%20Learning.md) |
 
 ---
 
