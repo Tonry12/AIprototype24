@@ -11,12 +11,12 @@ SC664401 | การสร้างต้นแบบระบบปัญญา
 | ครั้งที่ | วันที่       | หัวข้อบทเรียน           | ลิงก์บันทึกการสอน |
 |:-------:|:----------:|:-------------------:|:-------------------:|
 | I       | 02/12/67  | คำสั่ง Ubuntu CLI   | [`คำสั่ง Ubuntu_พื้นฐาน.md`](https://github.com/Tonry12/AIprototype24/blob/main/LinuxCommandLine(%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87).md) |
-| II      | 11/12/67  | เครื่องเสมือน (VM) | [`Lecture Class II.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20II.md) |
-| III     | 24/12/67  | Cloud VM           | [`Lecture Class III.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20III.md) |
-| IV      | 07/01/68  | การสร้างเว็บ        | [`Lecture Class IV.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20IV.md) |
-| V       | 21/01/68  | สภาพแวดล้อม Conda | [`Lecture Class V.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20V.md) |
-| VI      | 19/02/68  | Web Service        | [`Lecture Class VI.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20VI.md) |
-| VII     | 11/03/68  | Deep Learning      | [`Lecture Class VII.md`](https://github.com/Ratchanontt/AIPrototype24/blob/main/Lecture%20Class%20VII.md) |
+| II      | 11/12/67  | Virtual Machine | [`Virtual Machine.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Virtual%20Machine.md) |
+| III     | 24/12/67  | Ubuntu on Cloud VM | [`Cloud_VM.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/UbuntuonCloudVM_tonnaw.md) |
+| IV      | 07/01/68  | การสร้างเว็บ | [`web.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Web.md) |
+| V       | 21/01/68  | สภาพแวดล้อม Conda | [`Conda.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/%E0%B8%87%E0%B8%B9%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B9%86%E0%B9%86%20conda.md) |
+| VI      | 19/02/68  | Web Service        | [`Lecture Web Service.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Web%20Service.md) |
+| VII     | 11/03/68  | Deep Learning      | [`Deep Learning.md`](https://github.com/Tonry12/AIprototype24/blob/main/lecture/Deep%20Learning.md) |
 
 ---
 
@@ -89,12 +89,12 @@ SC664401 | การสร้างต้นแบบระบบปัญญา
   <summary>📌 HW1: คำนวณจำนวนวันที่มีชีวิตอยู่</summary>
 👉 คำนวณวันเกิดและแสดงเวลาถึงวันเกิดถัดไป
 
-[`myfirstpy.py`](https://github.com/Ratchanontt/AIPrototype24/blob/main/myfirstpy.py)
+[`myfirstpy.py`](https://github.com/Tonry12/AIprototype24/blob/main/myfristpy.py)
 </details>
 
 <details>
   <summary>📌 HW2: ส่งข้อความหาเพื่อนผ่านเซิร์ฟเวอร์</summary>
 👉 ระบบส่งข้อความผ่าน API ไปยัง IP Address ที่บันทึกไว้
 
-[`call_web_service.py`](https://github.com/Ratchanontt/AIPrototype24/blob/main/call_web_service.py)
+[`call_web_service.py`](https://github.com/Tonry12/AIprototype24/blob/main/call_web_service.py)
 </details>
