@@ -2,8 +2,8 @@
 ## Prototyping for AI & Machine Learning Systems
 SC664401 | การสร้างต้นแบบระบบปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง
 
-👨🏻‍🎓 **Ratchanont Thippimanporn** 📝  
-📌 **Student ID:** 643020515-5
+👨🏻‍🎓 **Thanabodi Puchomsi** 📝  
+📌 **Student ID:** 643020502-4
 
 ---
 
