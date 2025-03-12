@@ -5,6 +5,8 @@ SC664401 | การสร้างต้นแบบระบบปัญญา
 👨🏻‍🎓 **Thanabodi Puchomsi** 📝  
 📌 **Student ID:** 643020502-4
 
+[WebPage Project](https://puttipongyy.github.io/WebPageProject/)
+
 ---
 
 ## 📅 ตารางเรียน
